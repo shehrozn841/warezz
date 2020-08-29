@@ -216,6 +216,7 @@ sidebar_label: DDL
 - [WatchTVSeries](https://watchtvseries.unblocked.krd/) - Watch TV shows online.
 - [ZeroBoard](https://zeroboard.org/) - A board which provides Windows related stuff.
 - [up4pc](https://up4pc.com/) - Download PC Software including cracks via ZippyShare, GDrive and Mega.
+- [ShehrOZPC](https://shehrozpc.com/) - Download All Premium PC Software via ZippyShare, GDrive and Mega.
 - [CB01.uno](https://cb01.gallery/) - (`IT`) - Movies, TV Shows and Animes.
 - [Release BB](http://rlsbb.ru/) - (`RU/ENG`) - Daily Source of Awesome Stuff.
 
